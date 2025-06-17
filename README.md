@@ -55,3 +55,6 @@ Start frontend: cd client && npm start
 - Add a screenshot under ## Preview.
 
 - Include a "Future Scope" section for planned features.
+
+# Output
+![Image](https://github.com/user-attachments/assets/4231ab26-a541-4df2-9994-9e34173b531f)
